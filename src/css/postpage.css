@@ -1,0 +1,25 @@
+.postpage-input-fields{
+    border: none;
+    border-bottom: 1px solid red;
+    height: 2em;
+    width: 20em;
+    color: rgb(15, 15, 15);
+    margin: 2em;
+    /* background-color: rgba(35,50,61,255); */
+}
+.post-form-container{
+    width:40em;
+    height: 30em;
+    margin: 10em auto;
+    padding: 1em;
+    text-align: end;
+    background-color: rgba(35,50,61,255);
+    border-radius: 0.5em;
+
+}
+.post-details-form{
+    margin:3em auto;
+    width:30em;
+   
+    text-align: center;
+}
